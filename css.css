@@ -1,0 +1,17 @@
+body {
+background-color:#4BB5C1;
+ 
+}
+
+.table-menu {
+	width: 100%;
+	text-align: center;
+}	
+
+a:hover {
+
+}
+
+h2 {color: white;
+    text-shadow: 2px 2px 8px #000000;
+}
